@@ -1,4 +1,4 @@
-# EfficientNet for Custome Dataset
+# EfficientNet for Custom Dataset
 
 [Efficient Net Implementation](https://github.com/qubvel/efficientnet)
 
