@@ -1,4 +1,7 @@
 # EfficientNet
+
+[Efficient Implementation](https://github.com/qubvel/efficientnet)
+
 Application of Efficient Net on custom dataset
 ```
 Tensorflow == 1.14.0
