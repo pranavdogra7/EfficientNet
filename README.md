@@ -1,6 +1,6 @@
 # EfficientNet
 
-[Efficient Implementation](https://github.com/qubvel/efficientnet)
+[Efficient Net Implementation](https://github.com/qubvel/efficientnet)
 
 Application of Efficient Net on custom dataset
 ```
